@@ -1,6 +1,7 @@
 # Visual food inflation - Sample Dash App
 This folder contains a minimal **Dash application** that demonstrates how to visualize the processed sample inflation data produced by the preprocessing pipeline.
 ## Folder structure
+
 ```
 preprocessing_mini_sample/
 ├─ sample_data/ # Output files created by the preprocessing pipeline
