@@ -26,7 +26,7 @@ preprocessing_mini_sample/
 ###  Option 1: Google Colab
 Open directly in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soph231/Food_inflation_visualization/blob/main/preprocessing_mini_sample/Inflation_data_preprocessing_pipeline_example.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soph231/Mini_workflow_Inflation_visualization/blob/main/Inflation_data_preprocessing_pipeline_example.ipynb)
 
 At the top of the notebook, install dependencies:
 ```python
@@ -35,19 +35,19 @@ At the top of the notebook, install dependencies:
 Option 2: Binder
 
 Launch an interactive Jupyter session in your browser:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Soph231/Food_inflation_visualization/main?filepath=preprocessing_mini_sample%2FInflation_data_preprocessing_pipeline_example.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Soph231/Mini_workflow_Inflation_visualization/HEAD?labpath=Inflation_data_preprocessing_pipeline_example.ipynb)
 
 ### Option 3: Run Locally
 
 You can also run the notebook on your own machine:
 
 ```bash
-# Clone the full repository
-git clone https://github.com/Soph231/Food_inflation_visualization.git
+# Clone the mini workflow repository
+git clone https://github.com/Soph231/Mini_workflow_Inflation_visualization.git
 ```
 # Move into the mini sample subfolder
 ```bash
-cd Food_inflation_visualization/preprocessing_mini_sample
+cd Mini_workflow_Inflation_visualization
 ```
 # Install required dependencies
 ```bash
