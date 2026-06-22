@@ -1,0 +1,5 @@
+Area Code (ISO3),Area,Year,Value,Country,Inflation,Region,Inflation_Category
+AUS,Australia,2001,6.3,Australia,6.3,Oceania,Moderate Inflation
+AUS,Australia,2002,4.0,Australia,4.0,Oceania,Low Inflation
+NZL,New Zealand,2001,6.3,New Zealand,6.3,Oceania,Moderate Inflation
+NZL,New Zealand,2002,3.5,New Zealand,3.5,Oceania,Low Inflation

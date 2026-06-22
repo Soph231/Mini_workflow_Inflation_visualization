@@ -1,0 +1,9 @@
+dash
+dash-bootstrap-components
+flask-caching
+plotly
+pandas
+folium
+wordcloud
+matplotlib
+
